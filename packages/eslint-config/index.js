@@ -58,6 +58,7 @@ module.exports = {
         "for-direction": ["warn"],
         "getter-return": ["warn"],
         "grouped-accessor-pairs": ["warn", "getBeforeSet"],
+        "license-header/header": ["warn", "license-header.txt"],
         "no-async-promise-executor": ["warn"],
         "no-await-in-loop": ["warn"],
         "no-case-declarations": ["off"],
