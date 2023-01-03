@@ -1,0 +1,1 @@
+# Zirco prettier config

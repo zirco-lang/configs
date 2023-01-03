@@ -1,0 +1,27 @@
+{
+    "name": "@zirco-lang/prettier-config",
+    "version": "0.0.0",
+    "description": "Prettier configuration for Zirco",
+    "keywords": [
+        "prettier"
+    ],
+    "author": "0xLogN <nutdriver716@gmail.com>",
+    "homepage": "https://github.com/zirco-lang/configs#readme",
+    "license": "GPL-3.0",
+    "main": "index.js",
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zirco-lang/configs.git"
+    },
+    "scripts": {},
+    "bugs": {
+        "url": "https://github.com/zirco-lang/configs/issues"
+    },
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org"
+    }
+}
