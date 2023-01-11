@@ -1,0 +1,29 @@
+{
+  "name": "@zirco-lang/ts-config",
+  "version": "0.3.0",
+  "description": "Zirco-lang TypeScript configuration",
+  "author": "0xLogN <nutdriver716@gmail.com>",
+  "homepage": "https://github.com/zirco-lang/configs#readme",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zirco-lang/configs.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/zirco-lang/configs/issues"
+  },
+  "publishConfig": {
+      "access": "public",
+      "registry": "https://registry.npmjs.org"
+  }
+}

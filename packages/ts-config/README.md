@@ -1,0 +1,1 @@
+# Zirco TypeScript config
