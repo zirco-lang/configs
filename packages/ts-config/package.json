@@ -1,6 +1,6 @@
 {
     "name": "@zirco-lang/ts-config",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "Zirco-lang TypeScript configuration",
     "author": "0xLogN <nutdriver716@gmail.com>",
     "homepage": "https://github.com/zirco-lang/configs#readme",
